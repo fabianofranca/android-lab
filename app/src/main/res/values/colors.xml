@@ -9,4 +9,5 @@
     <color name="colorTextPrimary">#000000</color>
     <color name="colorTextSecondary">#ffffff</color>
     <color name="colorBackground">#fafafa</color>
+    <color name="colorToolbar">#f5f5f5</color>
 </resources>

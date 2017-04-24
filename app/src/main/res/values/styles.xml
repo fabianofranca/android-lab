@@ -10,10 +10,14 @@
         <item name="colorButtonNormal">@color/colorPrimary</item>
         <item name="android:windowBackground">@color/colorBackground</item>
         <item name="android:navigationBarColor" tools:targetApi="21">@color/colorPrimaryDark</item>
+        <item name="android:toolbarStyle" tools:targetApi="21">@style/ToolbarTheme</item>
     </style>
 
     <style name="SplashTheme" parent="AppTheme">
         <item name="android:windowBackground">@drawable/splash</item>
     </style>
 
+    <style name="ToolbarTheme" parent="Widget.AppCompat.Toolbar">
+        <item name="android:background">@color/colorToolbar</item>
+    </style>
 </resources>
