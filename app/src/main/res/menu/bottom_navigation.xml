@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_discover"
+        android:enabled="true"
+        android:icon="@drawable/ic_discover"
+        android:title="@string/discover" />
+    <item
+        android:id="@+id/navigation_movies"
+        android:enabled="true"
+        android:icon="@drawable/ic_movies"
+        android:title="@string/movies" />
+    <item
+        android:id="@+id/navigation_tv_shows"
+        android:enabled="true"
+        android:icon="@drawable/ic_tv_shows"
+        android:title="@string/tv_shows" />
+    <item
+        android:id="@+id/navigation_people"
+        android:enabled="true"
+        android:icon="@drawable/ic_people"
+        android:title="@string/people" />
+    <item
+        android:id="@+id/navigation_you"
+        android:enabled="true"
+        android:icon="@drawable/ic_you"
+        android:title="@string/you" />
+</menu>
